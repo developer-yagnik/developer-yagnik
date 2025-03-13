@@ -4,8 +4,7 @@
 
 # Hi there, I'm Yagnik Patel! 👋  
 
-🚀 **MERN Stack, React Native & iOS Developer** | Passionate about building **scalable web & mobile cross platform applications**  
-
+🚀 **MERN Stack, React Native & iOS Developer**
 ## 🔹 About Me  
 - 💻 **I specialize in MERN Stack (MongoDB, Express.js, React.js, Node.js), React Native, and iOS Development**  
 - 🍏 **iOS Developer with expertise in Swift, SwiftUI, and UIKit**  
