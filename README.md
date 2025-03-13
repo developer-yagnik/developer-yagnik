@@ -7,11 +7,11 @@
 🚀 **MERN Stack, React Native & iOS Developer** | Passionate about building **scalable web & mobile cross platform applications**  
 
 ## 🔹 About Me  
-- 💻 I specialize in **MERN Stack (MongoDB, Express.js, React.js, Node.js), React Native, and iOS Development**  
-- 🍏 **iOS Developer** with expertise in **Swift, SwiftUI, and UIKit**  
-- 🚀 Currently working as a **React Native Developer at Parul University**, developing an app for **Indian Council of Medical Research (ICMR)**  
-- 🌱 Learning **Next.js** to expand my skill set  
-- 💬 Ask me about **React, React Native, SwiftUI, JavaScript, and Backend APIs**  
+- 💻 **I specialize in MERN Stack (MongoDB, Express.js, React.js, Node.js), React Native, and iOS Development**  
+- 🍏 **iOS Developer with expertise in Swift, SwiftUI, and UIKit**  
+- 🚀 **Currently working as a React Native Developer at Parul University, developing an app for Indian Council of Medical Research (ICMR)**  
+- 🌱 **Learning Next.js to expand my skill set**
+- 💬 **Ask me about React, React Native, SwiftUI, JavaScript, and Backend APIs**  
 
 ## 🔹 Tech Stack  
 <p align="center">
@@ -56,4 +56,4 @@
 
 ---
 
-🔥 **Passionate about coding, open-source, and creating amazing user experiences!** Feel free to check out my repositories and contribute! 🚀
+🔥 **Passionate about coding, open-source, and creating amazing user experiences! Feel free to check out my repositories and contribute!** 🚀
