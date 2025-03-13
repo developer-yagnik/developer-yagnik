@@ -4,8 +4,6 @@
 
 # Hi there, I'm Yagnik Patel! 👋  
 
-
-
 🚀 **MERN Stack, React Native & iOS Developer** | Passionate about building **scalable web & mobile cross platform applications**  
 
 ## 🔹 About Me  
@@ -14,8 +12,6 @@
 - 🚀 Currently working as a **React Native Developer at Parul University**, developing an app for **Indian Council of Medical Research (ICMR)**  
 - 🌱 Learning **Next.js** to expand my skill set  
 - 💬 Ask me about **React, React Native, SwiftUI, JavaScript, and Backend APIs**  
-
- 
 
 ## 🔹 Tech Stack  
 <p align="center">
@@ -29,22 +25,16 @@
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github.png"/>
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
-
   <img src="https://img.icons8.com/?size=50&id=13679&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=48&id=x7XMNGh2vdqA&format=png&color=000000"/>
   <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
   <img src="https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout.png" width="48" height="48" alt="PostgreSQL Logo"/>
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdVEuXbieiDLdzyT-lHa1wtFVPK2ONT5utgQ&s" width="48" height="48" alt="Clerk Authentication"/>
-<img src="https://img.icons8.com/?size=48&id=r9QJ0VFFrn7T&format=png" width="48" height="48" alt="PostgreSQL Logo"/>
-
-
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdVEuXbieiDLdzyT-lHa1wtFVPK2ONT5utgQ&s" width="48" height="48" alt="Clerk Authentication"/>
+  <img src="https://img.icons8.com/?size=48&id=r9QJ0VFFrn7T&format=png" width="48" height="48" alt="PostgreSQL Logo"/>
   <img src="https://img.icons8.com/color/48/000000/swift.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="48" alt="Postman"/>
-  
-
- >
+</p>
 
 ## 🔹 GitHub Stats  
 <p align="center">
@@ -53,11 +43,15 @@
 
 ## 🔹 Connect with Me  
 <p align="center">
- 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/developer-yagnik)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/YagnikkPatel/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yagnikkpatel/)
-  
+  <a href="https://github.com/developer-yagnik" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://leetcode.com/u/YagnikkPatel/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  <a href="https://www.linkedin.com/in/yagnikkpatel/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ---
