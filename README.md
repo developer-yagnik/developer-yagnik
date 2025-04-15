@@ -186,7 +186,7 @@
 
 ## 🔹 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developer-yagnik&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yagnikkpatel&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 ## 🔹 Connect with Me  
